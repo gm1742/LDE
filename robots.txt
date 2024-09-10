@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+SITEMAP: http://www.latentdefects.co.uk/sitemap.txt
